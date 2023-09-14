@@ -1,5 +1,5 @@
 package helper
 
-func firstFunc() string {
+func FirstFunc() string {
 	return "My Go First One"
 }
